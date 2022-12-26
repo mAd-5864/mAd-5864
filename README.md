@@ -2,7 +2,7 @@
   <a href="https://github.com/mAd-5864">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mAd-5864&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mAd-5864&layout=compact&langs_count=5&theme=gotham"/>
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mAd-5864&theme=gotham&mode=weekly)(https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mAd-5864&theme=gotham&mode=weekly)](https://git.io/streak-stats)
 </div>
   ##
 <div> 
