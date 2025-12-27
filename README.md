@@ -53,7 +53,7 @@ Bachelor in Informatics Engineering @ Instituto Superior de Engenharia de Coimbr
 | Tecnologias e Arquiteturas de Computadores | [Project](https://github.com/mAd-5864/TP-TAC) in Assembly | 14 out of 20 |
 | Fundamentos de Computação Gráfica | [Project](https://drive.google.com/file/d/1B20VYwX-bgpCqsLhKlpCwqJXbNtq7TuV/view) in Blender | 14 out of 20 |
 
-| 2<sup>nd</sup> year - 1<sup>nd</sup> semester | | Graded |
+| 2<sup>nd</sup> year - 1<sup>st</sup> semester | | Graded |
 | --- | :---: | :---: |
 | Sistemas Operativos | [Projects](https://github.com/mAd-5864/TP-SO) in C | 16 out of 20 |
 | Introdução à Inteligência Artificial | [Projects](https://github.com/mAd-5864/TP2-IIA) in C | 15 out of 20 |
@@ -65,6 +65,11 @@ Bachelor in Informatics Engineering @ Instituto Superior de Engenharia de Coimbr
 | Programação Avançada | [Project](https://github.com/mAd-5864/TP-PA) in Java | 17 out of 20 |
 | Interação Pessoa-Máquina | [Project](https://drive.google.com/file/d/1pzFZwQkrropMilmD-qu-1NYyv9g-iSpA/view?usp=sharing) in Prototyping | 18 out of 20 |
 | Conhecimento e Raciocínio | [Project](https://github.com/mAd-5864/TP-CR) in Matlab | 13 out of 20 |
+
+| 3<sup>rd</sup> year - 1<sup>st</sup> semester | | Graded |
+| --- | :---: | :---: |
+| Programação Distribuída | [Project](https://github.com/mAd-5864/TP-2526-PD) in Java | 18 out of 20 |
+| Gestão de Projeto de Software | [Project](https://gitlab.com/belos-e-a-monstra/gps2526_g25/-/tree/main?ref_type=heads) in Java/Agile Methodologies | 17 out of 20 |
 
 <div align="center">
   <a href="https://github.com/mAd-5864">
